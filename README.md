@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on WordPress, html CSS
+- 🌱 I’m currently learning Php, JS
+- 👯 I’m looking to collaborate on Web developing projects
+- 📫 How to reach me:  deyroydebabrata@gmail.com or 8209047587
 
 <!--
 **debabrata1532/debabrata1532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
